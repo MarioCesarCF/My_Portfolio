@@ -1,6 +1,6 @@
 # My_Portfolio
 
-## [ ] Menu de navegação em todas as páginas com:
+## [ ] Menu de navegação com:
 ### About | Skills | Projects | Contact
 
 <br>
