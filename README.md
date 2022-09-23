@@ -6,7 +6,7 @@
 <br>
 
 ## About
-### [ ] Pequeno texto sobre mim falando um pouco do começo da jornada, stacks e tecnologias aprendidas e em aperfeiçoamento. Ao lado do texto uma imagem legal.
+### [x] Pequeno texto sobre mim falando um pouco do começo da jornada, stacks e tecnologias aprendidas e em aperfeiçoamento. Ao lado do texto uma imagem legal.
 ### [ ] Colocar botão para baixar meu CV.
 
 <br>
