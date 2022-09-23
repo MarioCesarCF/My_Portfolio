@@ -1,10 +1,26 @@
 body {
     padding: 20px;
+    background-color: #6b1cb4;
+    color: #fff;
 }
+
+a {
+    text-decoration: none;
+    color: #12f771;
+}
+
+header>.header {
+    display: flex;
+    
+}
+.header>.menu-nav {
+    display: flex;
+}
+
 .progress-title{
     font-size: 18px;
     font-weight: 700;
-    color: #1c2647;
+    color: #02fa69;
     margin: 0 0 10px;
 }
 .progress{
@@ -34,6 +50,7 @@ body {
 .progress .progress-bar{
     border: none;
     box-shadow: none;
+    background-color: #0da333;
     -webkit-animation: 2s linear 0s normal none infinite running progress-bar-stripes,animate-positive 1s;
     animation: 2s linear 0s normal none infinite running progress-bar-stripes,animate-positive 1s;
 }
